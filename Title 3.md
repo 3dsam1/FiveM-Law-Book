@@ -554,7 +554,7 @@ $1200
 
 Brandishing a deadly weapon publicly with the intent of causing intimidation or to instill fear into another.		
 ```
-Class 5 Felony	
+Class 6 Felony	
 $945	
 15 Months
 ```																					
