@@ -19,7 +19,8 @@ Fine: Equal fine to Original Offense
 
 **3-403	Conspiracy**
 
-Knowingly or willingly conspires with another person or persons to commit a crime if with the purpose of promoting or facilitating its commission he (1)agrees with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or (2)agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 		
+Knowingly or willingly conspires with another person or persons to commit a crime if the purpose of promoting or facilitating its commission they agree with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 
+
 ```
 Class: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony	
 Time & Fine: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony
@@ -170,7 +171,7 @@ $1500
 
 **3-802	Theft**
 
-Takes or exercises unlawful control over property or items of another with purpose to benefit himself or another who is not entitled to the property or items.		
+Takes or exercises unlawful control over property or items of another with purpose to benefit themself or another who is not entitled to the property or items.		
 ```
 Class 1 Misdemeanor	
 $500	
@@ -186,7 +187,7 @@ $1250
 ```
 **3-803	Robbery**	
 
-Threatening to use force against another person with intent to coerce the surrender of property, or the taking of property.		
+Threatening to use force against another person with intent to coerce the surrender of property, or the taking of property.	
 ```
 Class 6 Felony	
 $1750	
@@ -417,7 +418,7 @@ $1040
 
 **3-1009	Public Intoxication**
 
-Person is or appears in an intoxicated condition in any public place or within the curtilage of any private residence not his own other than by invitation of the owner or lawful occupant, which condition is made manifest by boisterousness, by indecent condition or act, or by vulgar, profane, loud, or unbecoming language.		
+Person is or appears in an intoxicated condition in any public place or within the curtilage of any private residence not their own other than by invitation of the owner or lawful occupant, which condition is made manifest by boisterousness, by indecent condition or act, or by vulgar, profane, loud, or unbecoming language.		
 ```
 Class 2 Misdeameanor
 $290	
@@ -638,7 +639,7 @@ No Jail
 
 **3-1208	Possession of Controlled Dangerous Substance: With Possession of Firearm**	
 
-Obtains or possesses, actually or constructively, a controlled dangerous substance or controlled substance analog in any amount while having a firearm in his actual or constructive possession.		
+Obtains or possesses, actually or constructively, a controlled dangerous substance or controlled substance analog in any amount while having a firearm in their actual or constructive possession.		
 ```
 Class 5 Felony
 $2300	
