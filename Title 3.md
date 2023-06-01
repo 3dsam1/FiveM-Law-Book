@@ -25,7 +25,7 @@ Class: Two classes lower than the original offense, unless it's a class one felo
 Time & Fine: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony
 ```																		
 																											
-																												
+
 ## Homicide																												
 **3-501	First Degree Murder**
 
@@ -58,6 +58,7 @@ Hold Until Trial
 
 **3-504	Negligent Homicide**
 
+
 Unintended killing of another person through acts of negligence where proper care by the offending party is not enacted.		
 ```
 Class 3 Felony	
@@ -65,7 +66,7 @@ $10,000
 Hold Until Trial
 ```
 																											
-																												
+
 ## Assault																												
 
 **3-601	Assault**	
@@ -119,6 +120,7 @@ $2500
 
 **3-606	Threatening a Public Official**
 
+
 Threatens to commit any crime of violence of death or great bodily injury against a Public Official such as a Law Enforcement Officer, Judicial Officer, EMS, Medical Personnel, or Prosecutor, that are intended to, and actually do, place the victims in reasonable and sustained fear for their safety or that of their family.		
 ```
 Class 1 Misdemeanor	
@@ -127,6 +129,7 @@ $1250
 ```
 																											
 																												
+
 ## Kidnapping																												
 
 **3-701	Kidnapping**
@@ -149,14 +152,14 @@ $1500
 
 **3-703	Trafficking of Persons**
 
+
 Knowingly holds, lures, harbors, transports, or obtains by any means, another person with the intent of having that person engage in labors or services.		
 ```
 Class 4 Felony	
 $5000	
 30 Months
 ```
-																												
-																												
+																																																				
 ## Robbery & Theft																												
 
 **3-801	Theft by Extortion**	
@@ -231,14 +234,14 @@ $645
 
 **3-807	Possession of Marked Bills**
 
+
 Anyone who commits Possession of Marked Bills, where the total amount of bills exceeds the value of $5,000.	
 ```
 Class 6 Felony	
 $2450	
 18 Months
 ```
-																											
-																												
+																																																					
 ## Tresspass & Damage																												
 
 **3-901	Tresspassing**
@@ -443,7 +446,7 @@ $280
 ```																					
 
 
-																												
+
 ## Weapons																												
 
 **3-1101	Possession of an Illegal Weapon (SA Class I)**
@@ -674,13 +677,14 @@ $580
 
 **3-1212	Trafficking Controlled Dangerous Substances**
 
+
 Knowingly and willinging, possesses or obtains, actually or constructively, any substances or paraphernalia described in the codes 3-1201 through 3-1210 as part of a pattern where multiple offensives have contributed towards significant monetary gain towards the person's income or the advancement and gain of a criminal organization, group or gang (significant monetary gain exceeding $10,000), or possessing any packaged, unpackaged or bricked form of drugs or paraphernalia that in any amount above 240 grams. 
 ```
 Class 2 Felony	
 $14,000	
 "Hold Until Trial
 ```
-																																														
+
 ## Court & Emergency Service																												
 
 **3-1301	Perjury**
@@ -790,7 +794,7 @@ $1450
 ```
 
 
-																												
+
 ## Miscellaneous																												
 
 **3-1501	Tampering with Evidence**	
@@ -886,14 +890,14 @@ Hold Until Trial
 
 **3-1603	Planning an Act of Terrorism**	
 
+
 Planning of a mass destruction event as described in 3-1601		
 ```
 Class 1 Felony
 $100000
 Hold Until Trial
 ```																					
-																											
-																												
+																																																						
 ## Vehicles			
 
 
@@ -1003,6 +1007,7 @@ $275
 ```																					
 
 **3-1712	No Motorcycle Helmet**	
+
 
 Operation of a motorcycle without a helmet.	
 ```
@@ -1635,15 +1640,10 @@ $1450
 
 **3-2209	Commercial or Personal Skydive Without Permit**
 
+
 Providing means of, or performing the act of skydiving without proper permits issued by the State of San Andreas.		
 ```
 Class 1 Misdemeanor	
 $650	
 4 Months	
 ```																				
-
-
-
-
-																											
-																										
