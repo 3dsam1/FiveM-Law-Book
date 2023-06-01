@@ -19,7 +19,7 @@ Fine: Equal fine to Original Offense
 
 **3-403	Conspiracy**
 
-Knowingly or willingly conspires with another person or persons to commit a crime if with the purpose of promoting or facilitating its commission he (1)agrees with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or (2)agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 		
+Knowingly or willingly conspires with another person or persons to commit a crime if the purpose of promoting or facilitating its commission they agree with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 	
 ```
 Class: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony	
 Time & Fine: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony
