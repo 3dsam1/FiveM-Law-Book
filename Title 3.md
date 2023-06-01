@@ -19,7 +19,8 @@ Fine: Equal fine to Original Offense
 
 **3-403	Conspiracy**
 
-Knowingly or willingly conspires with another person or persons to commit a crime if with the purpose of promoting or facilitating its commission he (1)agrees with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or (2)agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 		
+Knowingly or willingly conspires with another person or persons to commit a crime if the purpose of promoting or facilitating its commission they agree with such other person or persons that they or one or more of them will engage in conduct which constitutes such crime or an attempt or solicitation to commit such crime; or agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. 
+
 ```
 Class: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony	
 Time & Fine: Two classes lower than the original offense, unless it's a class one felony in which case they will recieve a class one felony
@@ -1525,8 +1526,7 @@ Law Enforcement officers operating within a reasonable and lawful capacity of th
 
 **3-2202	Minimum Height Limit Violation**
 
-Except when taking off or landing at a regulated and authorized airport or landing pad, all aircraft, including fixed wing or helicopter, must operate at a height higher than 1,100ft (elevation greater than the height of the Maze Bank tower) in the State of San Andreas.		
-
+Except when taking off or landing at a regulated and authorized airport or landing pad, all aircraft, including fixed wing or helicopter, must operate at a height higher than 1,900ft in Los Santos, and a height higher than 1,100ft elsewhere. Must also operate at a minimum of 200ft above the ground level, any structure, building or other obstacle.
 ```
 Class 6 Felony
 $850	
