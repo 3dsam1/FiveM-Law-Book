@@ -29,7 +29,7 @@ Time & Fine: Two classes lower than the original offense, unless it's a class on
 ## Homicide																												
 **3-501	First Degree Murder**
 
-Intending or knowing that the person's conduct will cause death, the person causes the death of another person, with premeditation. 
+Intending or knowing that the person's conduct will cause death, the person causes the death of another person, with premeditation. POG
 
 ```
 Class 1 Felony
