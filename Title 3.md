@@ -33,7 +33,7 @@ Intending or knowing that the person's conduct will cause death, the person caus
 
 ```
 Class 1 Felony
-$10,000	
+$65,000
 Hold Until Trial
 Life in Prison / Death Penalty																					
 ```
@@ -43,7 +43,7 @@ Life in Prison / Death Penalty
 An individual who acted with the intent to kill, or to cause bodily harm knowing it would likely result in death without premiditation. 		
 ```
 Class 1 Felony	
-$10,000	
+$45,000	
 Hold Until Trial
 ```
 
@@ -52,7 +52,7 @@ Hold Until Trial
 Recklessly causing the death of another person including that of a situation resulted of "heat of passion" from provocation of the victim.		
 ```
 Class 2 Felony	
-$8,000	
+$20,000	
 Hold Until Trial
 ```
 
@@ -61,7 +61,7 @@ Hold Until Trial
 Unintended killing of another person through acts of negligence where proper care by the offending party is not enacted.		
 ```
 Class 3 Felony	
-$5,000	
+$10,000	
 Hold Until Trial
 ```
 																											
@@ -73,7 +73,7 @@ Hold Until Trial
 Intentionally, knowingly, or recklessly causing injury to another person or intentionally placing someone in reasonable apprehension of injury.		
 ```
 Class 1 Misdemeanor	
-$300	
+$750	
 10 Months
 ```
 
@@ -82,10 +82,10 @@ $300
 Causing serious physical injury to another by force that may result in disfigurement, loss or impairment of any organs, or fractures in the commission of an assault which includes the use of deadly weapons or dangerous instruments. Aggravated Assault on a public official, such as a Law Enforcement Officer, Judicial Officer, EMS, Medical Personnel, or Prosecutor constitutes a Class 3 felony offense.		
 ```
 Class 4 Felony
-$1500
+$4000
 20 Months
 Class 3 Felony (ES)	
-$2500	
+$6500	
 30 Months
 ```																				
 
@@ -94,7 +94,7 @@ $2500
 Threatens to commit any crime of violence of death or great bodily injury that are intended to, and actually do, place the victims in reasonable and sustained fear for their safety or that of their family.		
 ```
 Class 2 Misdemeanor	
-$125	
+$750	
 5 Months
 ```
 
@@ -103,7 +103,7 @@ $125
 An incarcerated invidiual commiting assault with the intent to incite, initiate or participate a riot.		
 ```
 Class 6 Felony	
-$500	
+$3500	
 20 Months
 ```
 
@@ -112,7 +112,7 @@ $500
 Intentionally firing a weapon from a motor vehicle in the direction of another person, vehicle, or structure		
 ```
 Class 5 Felony	
-$950	
+$2500	
 "Five-Day Vehicle Impound
 12 Months"
 ```
@@ -122,7 +122,7 @@ $950
 Threatens to commit any crime of violence of death or great bodily injury against a Public Official such as a Law Enforcement Officer, Judicial Officer, EMS, Medical Personnel, or Prosecutor, that are intended to, and actually do, place the victims in reasonable and sustained fear for their safety or that of their family.		
 ```
 Class 1 Misdemeanor	
-$300	
+$1250	
 10 Months
 ```
 																											
@@ -134,7 +134,7 @@ $300
 Unlawfully confines a person, or removes a person from the place they were found and confines that person with the intent of receiving ransom, reward, as a hostage or shield, or to facilitate crime, or inflict bodily injury to the victim.		
 ```
 Class 5 Felony	
-$1,000	
+$2500	
 15 Months
 ```
 
@@ -143,7 +143,7 @@ $1,000
 A person who intentionally and unlawfully restrainted, detained, or confined a person and made the person stay or go somewhere against their will.		
 ```
 Class 6 Felony	
-$400	
+$1500	
 12 Months
 ```
 
@@ -152,7 +152,7 @@ $400
 Knowingly holds, lures, harbors, transports, or obtains by any means, another person with the intent of having that person engage in labors or services.		
 ```
 Class 4 Felony	
-$1,800	
+$5000	
 30 Months
 ```
 																												
@@ -164,7 +164,7 @@ $1,800
 Knowingly or willingly employing false or deceptive statements, promises, claims, etc. or fraudulent activity to benefit from or gain property from another that they has no legal right to, or to cause the victim to lose any amount of that property. 		
 ```
 Class 6 Felony	
-$350	
+$1500	
 10 Months
 ```
 
@@ -173,16 +173,23 @@ $350
 Takes or exercises unlawful control over property or items of another with purpose to benefit himself or another who is not entitled to the property or items.		
 ```
 Class 1 Misdemeanor	
-$220	
+$500	
 5 Months
 ```
+**3-802-1 Felony Theft**
 
+Anyone who commits Theft where the total value of property or items is equal to or greater than $5,000.		
+```
+Class 6 Felony
+$1250	
+5 Months
+```
 **3-803	Robbery**	
 
 Threatening to use force against another person with intent to coerce the surrender of property, or the taking of property.		
 ```
 Class 6 Felony	
-$500	
+$1750	
 20 Months
 ```																					
 
@@ -191,7 +198,7 @@ $500
 In the course of committing robbery, the individual uses force against another person, institution, organization, or business, or is aided by one or more knowing and willing accomplices.
 ```
 Class 5 Felony	
-$1,000	
+$2250	
 25 Months
 ```																					
 
@@ -200,7 +207,7 @@ $1,000
 In the course of committing robbery or aggravated robbery, the person utilizes a deadly weapon or dangerous instrument capable of inflicting serious bodily injury.
 ```
 Class 4 Felony
-$2,000
+$3500
 35 Months	
 ```
 
@@ -208,9 +215,9 @@ $2,000
 
 Commits robbery or aggravated robbery against a federally recognized bank, financial institution, or currency storage building.
 ```
-Class 3 Felony
-$2,750	
-40 Months
+Class 2 Felony
+$4500	
+Hold Until Trial
 ```																					
 
 **3-807	Possession of Marked Bills**
@@ -218,8 +225,17 @@ $2,750
 Possesses or obtains, actually or constructively, bills marked by law enforcement for illegal activities in any amount. An offender can't be charged with Possession of Marked Bills in addition to Bank Robbery where those bills were obtained within the comission of the robbery.		
 ```
 Class 1 Misdeameanor	
-$220	
-5 Months
+$645	
+8 Months
+```
+
+**3-807	Possession of Marked Bills**
+
+Anyone who commits Possession of Marked Bills, where the total amount of bills exceeds the value of $5,000.	
+```
+Class 6 Felony	
+$2450	
+18 Months
 ```
 																											
 																												
@@ -230,7 +246,7 @@ $220
 Knowningly enters or is present in any structure or property after a request is made by the property owner or manager, law enforcment, or posted signage prohibiting entry		
 ```
 Class 1 Misdeameanor	
-$240
+$560
 5 Months
 ```																			
 
@@ -238,26 +254,26 @@ $240
 
 Without proper authorization, enters any government owned or managed facility that is secured with the intent of keeping ordinary citizens outside is guilty under this code section. Such facilities include (but are not limited to) correctional institutions, military encampments, state or federal airports and city / state or federal power / water / facilities plants.		
 ```
-Class 4 Felony	
-$2,000	
+Class 5 Felony	
+$2,150	
 20 Months
 ```
 
 **3-902.1	Tampering with a Restricted Government Facility**	
 Without proper authorization, enters into facility as described within 3-902 and intentionally tampers with, destroys, or modifies property or objects within.		
 ```
-Class 3 Felony	
-$2,850	
-40 Months
+Class 2 Felony	
+$12450	
+Hold Until Trial
 ```																					
 
 **3-903	Possession of Burglary Tools**
 
 Possession of a tool or instrument that would be commonly used for committing, soliciting, or facilitating burglary or any theft-related offense, with intention to use unlawfully. These instruments include but are not limited to; Lockpicks, Advanced Lockpicks, Boosting Tablets, USBs, Keycards, and Gruppe 6 Tablets.
 ```
-Class 3 Misdeameanor
-$50	
-2 Months
+Class 1 Misdeameanor
+$450
+6 Months
 ```																				
 
 **3-904	Burglary**
@@ -265,8 +281,16 @@ $50
 Enters any structure that is secured or otherwise not open to the public with the intent of committing an offense inside.		
 ``` 
 Class 1 Misdeameanor	
-$340	
+$640	
 10 Months
+```
+**3-905	Littering**
+
+Enters any structure that is secured or otherwise not open to the public with the intent of committing an offense inside.		
+``` 
+Class 2 Misdeameanor	
+$260	
+No Jail
 ```
 
 **3-906	Criminal Damaging**
@@ -274,7 +298,7 @@ $340
 Recklessly defacing or damaging a persons proprety. Intentionally tampering or modifying property or object of another person without the permission of the owner		
 ```
 Class 1 Misdeameanor	
-$350	
+$650	
 8 Months
 ```
 
@@ -284,7 +308,7 @@ $350
 Recklessly defacing or damaging a State or Government facility, building, property or objects. Intentionally tampering or modifying property or object of which belongs to the City, State or Government without permission of the City, State or Governement.		
 ```
 Class 6 Felony	
-$450	
+$1100	
 15 Months
 ```
 
@@ -293,7 +317,7 @@ $450
 Knowingly, willingly, recklessly or negligently uses or intends to use an incendiary or explosive device or agent to light a fire that results in or is intended to result in damage to another's tangible property.		
 ```
 Class 5 Felony	
-$850	
+$2500	
 15 Months
 ```																					
 
@@ -302,9 +326,27 @@ $850
 Starting or causing a fire or explosion which has the potential to, or causes the, damage of a structure or property.		
 ```
 Class 1 Misdeameanor
-$380
+$840
 4 Months
-```																					
+```		
+
+**3-910	Interfering with Working Animals**
+
+Knowingly, willingly, recklessly or negligently,  causes harm, undue distress, or interferes with the responsibilities of, any working animal certified by the State of San Andreas who is appropriately wearing identifying features that they are a working animal, such as but not limited to, Police Dogs, Police Horses, Visual Aid Dogs
+```
+Class 6 Felony
+$2500
+15 Months
+```		
+
+**3-911	Causing Death of a Working Animal**
+
+Knowingly, willingly, recklessly or negligently, causes the death or permanent disfigurement resulting in the inability to do their assigned duties, of any working animal certified by the State of San Andreas who is appropriately wearing identifying features that they are a working animal, such as but not limited to, Police Dogs, Police Horses, Visual Aid Dogs	
+```
+Class 5 Felony
+$4500
+25 Months
+```																			
 
 
 ## Disturbances of Public Order																												
@@ -315,7 +357,7 @@ $380
 Engages in words or actions which can endanger the safety, health or can ruin the relative peace and quiet of a neighborhood or other public place. Using offensive or abusive language or gestures to another person in a public setting with reason to intimidate or provoke response. Refuses to obey a lawful order to disperse or leave a public place where general public safety is about to or is currently being compromised by ongoing or imminent crime or emergency.
 ```
 Class 2 Misdeameanor
-$150	
+$350	
 5 Months
 ```																				
 
@@ -324,7 +366,7 @@ $150
 Two or more people, acting together, use threats, violence, or force, followed by immediate action of execution that recklessly disrupt the general peace.		
 ```
 Class 5 Felony	
-$1,000	
+$2500	
 20 Months
 ```
 
@@ -333,7 +375,7 @@ $1,000
 A person who intentionally and maliciously follows or harasses another person who has made it known that they do not consent to such following or harassment.		
 ```
 Class 1 Misdeameanor	
-$260	
+$1090	
 12 Months
 ```																				
 
@@ -342,7 +384,7 @@ $260
 An offender is guilty of lewdness if they knowingly commit any flagrantly lewd and offensive act, such as public nudity, which they know or expects to be observed by other nonconsenting individuals.		
 ```
 Class 1 Misdeameanor	
-$250	
+$860	
 15 Months
 ```
 
@@ -351,7 +393,7 @@ $250
 Knowingly or willingly uses the San Andreas State 911 system for any reason other than to report an emergency or request assistance from emergency services personnel.		
 ```
 Class 2 Misdeameanor	
-$180	
+$280	
 8 Months
 ```
 
@@ -360,7 +402,7 @@ $180
 Filing a false police report of a misdeameanor offense that causes action that an official is responsible for follow up or action towards a situation. Filing a false police report of a misdeameanor by means of intimidation or causing fear of another. Filing a false police report of a misdeameanor that prevents the entrance or occupation of a place, structure, building or vehicle.		
 ```
 Class 1 Misdeameanor	
-$270	
+$640	
 12 Months
 ```
 
@@ -369,7 +411,7 @@ $270
 Filing a false police report of a felony that causes action that an official is responsible for follow up or action towards a situation. Filing a false police of a felony report by means of intimidation or causing fear of another. Filing a false police report of a felony that prevents the entrance or occupation of a place, structure, building or vehicle.		
 ```
 Class 6 Felony
-$450
+$1040
 15 Months
 ```
 
@@ -378,7 +420,7 @@ $450
 Person is or appears in an intoxicated condition in any public place or within the curtilage of any private residence not his own other than by invitation of the owner or lawful occupant, which condition is made manifest by boisterousness, by indecent condition or act, or by vulgar, profane, loud, or unbecoming language.		
 ```
 Class 2 Misdeameanor
-$190	
+$290	
 5 Months
 ```																					
 
@@ -387,7 +429,7 @@ $190
 Falsely pretends to hold a position in the public service, through actions or statements, with the intent of having another reasonable person believe such pretenses. 	
 ```	
 Class 6 Felony	
-$500	
+$1500	
 20 Months
 ```
 
@@ -396,7 +438,7 @@ $500
 An individuals failure or outright refusal to identify by means of State issued legal identification or true full first and last name upon request by that of a Law Enforcement or Judicial Officer based on the suspicion that the individual has or is about to commit a crime.		
 ```
 Class 2 Misdeameanor	
-$120	
+$280	
 5 Months
 ```																					
 
@@ -409,7 +451,7 @@ $120
 Possessing any semi-automatic firearm, actually or constructively, not acquired through a legal firearms dealer certified by Los Santos City Hall, a San Andreas government entity, or an Ammunation store	
 ```
 Class 6 Felony
-$450	
+$2050	
 15 Months
 ```																					
 
@@ -418,7 +460,7 @@ $450
 Possessing any automatic firearm, actually or constructively, that is not acquired through a San Andreas government entity.
 ```
 Class 5 Felony	
-$750
+$3500
 20 Months
 ```
 
@@ -428,7 +470,7 @@ $750
 Possessing any device, actually or constructively, designed to cause damage to infrastructure, or persons, through means of an explosion or incineration. 
 ```
 Class 3 Felony	
-$2,650	
+$6500	
 30 Months
 ```				
 
@@ -437,8 +479,8 @@ $2,650
 
 Possessing any firearm, actually or constructively, reserved for use of Law Enforcement exclusively that is not acquired through a San Andreas government entity. These weapons are designated as the Carbine Rifle, Pump Shotgun Mk2, and a Combat Pistol.
 ```
-Class 2 Felony	
-$2,750
+Class 3 Felony	
+$7460
 30 Months		
 ```
 
@@ -447,7 +489,7 @@ $2,750
 Possessing any weapon, actually or constructively,  designed and designated for use by military agencies exclusively, such as but not limited to combat machine guns, .50 bmg caliber marksman rifles, rocket launchers, and fix-point mounted machine guns. 
 ```
 Class 2 Felony
-$5,000
+$15,000
 Hold Until Trial
 ```																				
 
@@ -456,36 +498,34 @@ Hold Until Trial
 Knowingly or willingly, possesses or obtains, actually or constructively, any firearm without receiving a proper firearms license from the state prior to possessing or obtaining such firearm. 		
 ```
 Class 6 Felony	
-$390	
+$1150	
 10 Months
 ```																					
 
 **3-1108	Possession of a Firearm as a Minor**
 
-**Being in possession of a firearm while under the age of 18. Providing or facilitating the unlawful use of a firearm to a person under the age of 18.**	
+Being in possession of a firearm while under the age of 18. Providing or facilitating the unlawful use of a firearm to a person under the age of 18.
 ```
 Class 2 Misdemeanor
-$350
+$1000
 10 Months
 ```																				
 
-**3-1109	Trafficking Illegal Firearms**
+**3-1109	Trafficking Illegal Weapons**
 
 Knowingly or willingly, possesses or obtains, actually or constructively, any of the weapons described in statutes 3-1101 through 3-1106, and distributes or attempts to distribute said weapons, or, the possession or concealment of 5 or more of any of the weapons described in statutes 3-1101 through 3-1106, actually or constructively.		
 ```
 Class 1 Felony	
-$7,500	
+$35000
 Hold Until Trial
-Vehicle Held Until Trial
 ```
 
-
-**3-1110	Sale of a Firearm to a Minor**	
+**3-1110	Providing a Firearm to a Minor**	
 
 Knowling, willing, recklessly, or negligently provides or attempts to provide a firearm to an individual under the age of 18.		
 ```
 Class 5 Felony	
-$850	
+$2500	
 15 Months
 ```
 
@@ -494,7 +534,7 @@ $850
 Knowling, willing, recklessly, or negligently sells or attempts to sell a firearm to a individual without the proper license, certification, or permit.
 ```
 Class 5 Felony	
-$850	
+$2800	
 15 Months
 ```																				
 
@@ -503,7 +543,7 @@ $850
 Willingly, recklessly, or negligently discharges a firearm without lawful reason to do so within an urban and/or residential environment, such as but not limited to Sandy Shores, Los Santos City, and Paleto Bay, unless the individial is permitted to by authorization from Law Enforcement, City or State.		
 ```
 Class 6 Felony	
-$400	
+$1200	
 15 Months
 ```																					
 
@@ -512,7 +552,7 @@ $400
 Brandishing a deadly weapon publicly with the intent of causing intimidation or to instill fear into another.		
 ```
 Class 5 Felony	
-$800	
+$945	
 15 Months
 ```																					
 
@@ -520,8 +560,8 @@ $800
 
 Openly displays or carries a firearm within view of the public without possession of an Open Carry License authorized by the Blaine County Sheriff's Office and San Andreas Judge, except during the immediate lawful usage of a firearm, while an individual is acting within the role of an officer of the peace, or during the active transportation of a firearm between destinations.
 ```
-Class 6 Felony	
-$370	
+Class 1 Misdemeanor	
+$845	
 10 Months
 ```																		
 
@@ -533,7 +573,7 @@ $370
 Obtains or possesses, actually or constructively, a controlled dangerous substance (CDS) or dangerous drug. Possesses a CDS or dangerous drug for sale. Possesses equipment, chemicals, or both, for the purpose of manufacturing CDS or a dangerous drug. Manufactures a CDS or dangerous drug. Administers CDS or a dangerous drug to another person. Transports CDS or a dangerous drug by person, vehicle or other means of transport.		
 ```
 Class 6 Felony	
-$350	
+$1350	
 10 Months
 ```																					
 
@@ -546,7 +586,7 @@ Classifies the legal, personal use, of marijuana within the State of San Andreas
 Obtains or possesses, actually or constructively, CDS identified as, or a derivative of, Methamphetamine.		
 ```
 Class 5 Felony	
-$850	
+$1650	
 20 Months
 ```
 
@@ -555,25 +595,25 @@ $850
 Obtains or possesses, actually or constructively, CDS identified as, or a derivative of, Cocaine.		
 ```
 Class 5 Felony	
-$750	
+$1560	
 15 Months
 ```
 
 **3-1204	Possession of Prescription Narcotics**
 
-Obtains or possesses, actually or constructively, a prescription narcotic where a valid prescription from a doctor is not provided for the identified substance or narcotic.
+Obtains or possesses, actually or constructively, a prescription narcotic where a valid prescription from a doctor is not provided for the identified substance or narcotic.		```
 ```
 Class 5 Felony	
-$700	
+$1150	
 15 Months
 ```
 
-**3-1205	Possession of Cannabis or Marijuana:**
-
-Above the Legal Limit		Obtains or possesses, actually or constructively, cannabis leaves or marijuana at or above 20 grams, without the proper licensing per the State of San Andreas.		
+**3-1205	Possession of Cannabis or Marijuana: Above the Legal Limit**
+		
+Obtains or possesses, actually or constructively, cannabis leaves or marijuana at or above 20 grams, without the proper licensing per the State of San Andreas.		
 ```
-Class 6 Felony	
-$300	
+Class 1 Misdemeanor	
+$1000	
 6 Months
 ```
 
@@ -582,7 +622,7 @@ $300
 Sale of Marijuana in a commercial or personal establishment, or direct sale to another person, without the proper licensing per the State of San Andreas.		
 ```
 Class 1 Misdeameanor	
-$250	
+$650	
 No Jail
 ```																	
 
@@ -592,16 +632,16 @@ Willfully and knowingly sells marijuana to a person under the age of 21. Unknowi
 
 ``` 
 Class 2 Misdeameanor	
-$150	
+$280	
 No Jail
 ```
 
-**3-1208	Possession of Controlled Dangerous Substance:**
+**3-1208	Possession of Controlled Dangerous Substance: With Possession of Firearm**	
 
-With Possession of Firearm		Obtains or possesses, actually or constructively, a controlled dangerous substance or controlled substance analog in any amount while having a firearm in his actual or constructive possession.		
+Obtains or possesses, actually or constructively, a controlled dangerous substance or controlled substance analog in any amount while having a firearm in his actual or constructive possession.		
 ```
 Class 5 Felony
-$900	
+$2300	
 15 Months
 ```
 
@@ -610,7 +650,7 @@ $900
 Obtains or possesses, actually or constructively, a controlled dangerous substance in any amount above 90 grams.
 ```
 Class 5 Felony
-$1,000	
+$2150	
 25 Months
 ```																					
 
@@ -619,7 +659,7 @@ $1,000
 Obtains or possesses, actually or constructively, marijuana (any form) in any amount above 60grams.		
 ```
 Class 5 Felony	
-$1,000	
+$2150	
 25 Months
 ```
 
@@ -628,7 +668,7 @@ $1,000
 Possesses, uses or obtains, actually or constructively, drug paraphernalia to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, ingest, inhale, or otherwise introduce into the human body a controlled dangerous substance, controlled substance analog or toxic chemical. Paraphernalia may be identified as but not exclusively limited to scales, empty bags found while a person is possessing CDS, rolling papers while a person is possessing CDS.		
 ```
 Class 1 Misdeameanor
-$250
+$580
 5 Months
 ```																					
 
@@ -637,9 +677,8 @@ $250
 Knowingly and willinging, possesses or obtains, actually or constructively, any substances or paraphernalia described in the codes 3-1201 through 3-1210 as part of a pattern where multiple offensives have contributed towards significant monetary gain towards the person's income or the advancement and gain of a criminal organization, group or gang (significant monetary gain exceeding $10,000), or possessing any packaged, unpackaged or bricked form of drugs or paraphernalia that in any amount above 240 grams. 
 ```
 Class 2 Felony	
-$4,000	
+$14,000	
 "Hold Until Trial
-Vehicle Held Until Trial"
 ```
 																																														
 ## Court & Emergency Service																												
@@ -649,7 +688,7 @@ Vehicle Held Until Trial"
 Perjury is defined as the intentional act of swearing a false oath or falsifying an affirmation to tell the truth, whether spoken or in writing, concerning matters material to an official proceeding.		
 ```
 Class 6 Felony	
-$380	
+$1500	
 10 Months
 ```
 
@@ -658,8 +697,17 @@ $380
 Criminal charge where a subject presents behavior that interferes with the proceedings or orders of a court.		
 ```
 Class 6 Felony	
-$380	
-8 Months
+$850	
+No Jail
+```
+
+**3-1302	Contempt of Court - Felony**
+
+Criminal charge where a subject presents behavior that significantly interferes with the proceedings or orders of a court.		
+```
+Class 6 Felony	
+$1850	
+12 Months
 ```
 
 **3-1303	Failure to Appear**
@@ -667,7 +715,7 @@ $380
 Failure or outright refusal to attend a court hearing where an individual has been expressly ordered by means of a court to attend.		
 ```
 Class 2 Misdemeanor	
-$200	
+$1850	
 5 Months
 ```
 
@@ -678,7 +726,7 @@ $200
 A person knowingly communicates, directly or indirectly, with a witness in any official proceeding or a person they believe may be called as a witness to falsely testify, withhold testimony, purposely fail to appear.	
 ```
 Class 5 Felony	
-$1,000	
+$3500	
 20 Months
 ```																					
 
@@ -700,8 +748,8 @@ $250
 
 Escaping and fleeing from the lawful custody of a Law Enforcement officer, Judicial Officer or other lawful custodial detainment.		
 ```
-Class 2 Misdemeanor	
-$180	
+Class 6 Felony	
+$1000	
 8 Months
 ```
 
@@ -709,8 +757,8 @@ $180
 
 Willfully flees or attempts to flee, elude, evade a pursuing Law Enforcement Officer by means of motor vehicle, bicycle, motorcycle, boat or other water craft, aircraft or helicopter after knowing, acknowleding, or recognizing the active pursuit of a designated Law Enforcement vehicle by means of vehicle markings or emergency lights, signals or audibles.		
 ```
-Class 1 Misdeameanor	
-$280	
+Class 6 Felony	
+$1250	
 15 Months
 ```
 
@@ -719,7 +767,7 @@ $280
 Violates criteria listed in Unlawful Flight and while doing so causes serious bodily injury or death to another persons as a direct result of their unlawful flight.		
 ```
 Class 6 Felony	
-$480	
+$2500	
 20 Months
 ```
 
@@ -728,7 +776,7 @@ $480
 Act of attempting to break individuals out of Prison custody from within the confines of Boilingbrooke Penetentiary or during the transport of prisoners to or from Boilingbrooke Penetentiary by means of aggression or violence.		
 ```
 Class 3 Felony	
-$2,850	
+$6980	
 40 Months
 ```																					
 
@@ -737,7 +785,7 @@ $2,850
 Harboring or concealing another person who is impending prosecution, apprehension or conviction. Providing a fugitive who is impending prosecution, apprehension or conviction with money, transportation, weapons, or disguise/concealment.		
 ```
 Class 6 Felony	
-$450	
+$1450	
 15 Months
 ```
 
@@ -750,7 +798,7 @@ $450
 Willingly, knowingly, recklessly or negligently destorys or attempts to destroy, creates or attemps to create false evidence, conceal, or alter any evidence that can later be used in a Criminal investigation or court proceeding.		
 ```
 Class 6 Felony	
-$400	
+$1250	
 10 Months
 ```
 
@@ -759,7 +807,7 @@ $400
 Knowingly, willingly, recklessly or negligently causes bodily injury or death to an animal through torturing, tormenting, mutilation, maiming, poisoning, or abandonment. 		
 ```
 Class 6 Felony	
-$380	
+$1000	
 8 Months
 ```																				
 
@@ -768,7 +816,7 @@ $380
 Knowingly or willingly engages in the process of converting marked bills into unmarked cash. 		
 ```
 Class 5 Felony	
-$850	
+$1750	
 20 Months
 ```
 
@@ -777,7 +825,7 @@ $850
 Willfully and knowingly sells alcohol to a person under the age of 21. Unknowingly sells alcohol to a person under the agen of 21 by not verifying age prior to the sale.	
 ```
 Class 2 Misdemeanor	
-$150
+$345
 No Jail
 ```																					
 
@@ -786,7 +834,7 @@ No Jail
 Sale of Alcohol in a commercial or personal establishment, or direct sale to another person, without the proper licensing per the State of San Andreas Chamber of Commerce and State Judicial Authority.		
 ```
 Class 1 Misdemeanor	
-$250	
+$685	
 No Jail
 ```
 
@@ -795,7 +843,7 @@ No Jail
 Knowingly alters, creates, or uses a written document with the intent to defraud or deceive or a person who knowingly signs a document or agreement, electronic or otherwise, without the consent or authority of whom they are signing for is guilty under this code. 		
 ```
 Class 6 Felony	
-$350	
+$1080	
 8 Months
 ```
 
@@ -804,7 +852,7 @@ $350
 Knowingly or willingly offers or attempts to offer money, goods/services, or any other form of payment to another in exchange for them to commit an unlawful action or crime. 		
 ```
 Class 6 Felony	
-$400	
+$1080	
 10 Months
 ```																					
 
@@ -812,8 +860,8 @@ $400
 
 Knowingly or willingly, possesses or obtains, actually or constructively, remains or a corpse of a human without proper state permit allowing the burial, cremation or transportation of said remains.		
 ```
-Class 3 Felony	
-$3,750	
+Class 5 Felony	
+$3800	
 40 Months
 ```																					
 
@@ -832,7 +880,7 @@ Individuals will be charged with the crimes facilitated
 Creation of mass destruction by means of explosive device or mass shooting in highly populated buildings, structures, vehicles or areas to influence and assert a political or ideological change instilling control or fear into the public.		
 ```
 Class 1 Felony	
-$7,500	
+$250000	
 Hold Until Trial
 ```																					
 
@@ -841,7 +889,7 @@ Hold Until Trial
 Planning of a mass destruction event as described in 3-1601		
 ```
 Class 1 Felony
-$7,500
+$100000
 Hold Until Trial
 ```																					
 																											
@@ -854,7 +902,7 @@ Hold Until Trial
 Knowingly or willingly takes a vehicle a person knows or reasonably expects not to belong to them.		
 ```
 Class 6 Felony	
-$450	
+$1450	
 10 Months
 ```
 
@@ -863,7 +911,7 @@ $450
 Inflicts, threatens to inflict, or attempts to inflict bodily harm upon another while knowingly and unlawfully taking a vehicle they know or reasonably expects not to belong to them.
 ```
 Class 5 Felony	
-$850	
+$2150	
 20 Months
 ```																					
 
@@ -872,7 +920,7 @@ $850
 Knowingly or willingly, unlawfully taking a vehicle belonging to the State of San Andreas Judicial system, a Law Enforcement Agency, or any authorized medical agency. 		
 ```
 Class 5 Felony	
-$900	
+$2530	
 18 Months
 ```
 
@@ -881,7 +929,7 @@ $900
 Possessing or are found operating a vehicle which has been reported stolen to law enforcement agencies by its registered owner.
 ```
 Class 1 Misdemeanor	
-$350	
+$650	
 10 Months																					
 ```
 
@@ -890,7 +938,7 @@ $350
 Operation or ownership of a vehicle chop shop OR the transport of vehicles to a chop shop. The removal, attempt to destroy, or expressed modification of a vehicle identification number that has been issued by the vehicle manufacturer.		
 ```
 Class 1 Misdemeanor	
-$250	
+$1150	
 10 Months
 ```																					
 
@@ -899,10 +947,11 @@ $250
 Obtains or possesses a vehicle that is equipped or modified with weaponry that is a danger to motorists and or citizens.		
 
 ```
-Class 3 Felony	
-$2,500	
+Class 2 Felony	
+$25000	
 Vehicle Forfeiture
 (Perma Forfeit)
+Hold Until Trial
 ```																		
 
 **3-1707	Aftermarket Vehicle Modification: Armor**
@@ -910,17 +959,18 @@ Vehicle Forfeiture
 Obtains or possesses a vehicle that is equipped or modified with armor that has not been approved by the State of San Andreas.		
 
 ```
-Class 3 Felony	
+Class 5 Felony	
 $2,300	
 Vehicle Forfeiture (Perma Forfeit)
+25 Months
 ```																
 
 **3-1708	Driving a Commercial Vehicle Under the Influence (DUI-C)**
 
 Drives or is in actual physical control of a commerical motor vehicle and is under the influence of alcoholic beverages or any chemical or controlled substance to the extent that their mental faculties are impaired or when his/her blood alcohol level (BAC) is above the legal limit for the state (.04 BAC)		
 ```
-Class 1 Misdemeanor	
-$260	
+Class 6 Felony	
+$1250	
 12 Months																					
 ```
 
@@ -929,8 +979,8 @@ $260
 **Drives or is in actual physical control of a motor vehicle and is under the influence of alcoholic beverages or any chemical or controlled substance to the extent that their mental faculties are impaired or when his/her blood alcohol level (BAC) is above the legal limit for the state (.08 BAC)**	
 
 ```
-Class 2 Misdemeanor	
-$180	
+Class 6 Felony	
+$1180	
 5 Months
 ```																				
 
@@ -938,8 +988,8 @@ $180
 
 Operation of a Vehicle while under the influence of any CDS.		
 ```
-Class 2 Misdemeanor	
-$180	
+Class 6 Felony	
+$1180	
 5 Months
 ```
 
@@ -948,7 +998,7 @@ $180
 Possessing an open, unsealed container containing, intended to contain, or previously containing alcohol or marijuana within an interior of a vehicle.		
 ```
 Class 3 Misdeameanor
-$25
+$275
 2 Months
 ```																					
 
@@ -957,7 +1007,7 @@ $25
 Operation of a motorcycle without a helmet.	
 ```
 Class 3 Misdeameanor	
-$25	
+$160	
 No Jail
 ```
 																												
@@ -972,7 +1022,7 @@ Law Enforcement officers operating within a reasonable and lawful capacity of th
 Reckless operation of a motorvehicle in wilful or wanton disregard for the general safety of other persons, property or the general public.		
 ```
 Class 1 Misdemeanor	
-$250	
+$650	
 12 Months
 ```
 
@@ -980,7 +1030,7 @@ $250
 Operation of a motorvehicle in a manner that is negligent and endangers or is likely to endanger another person or property by failing to excercise general and ordianry care, where a reasonably careful person would not do under the same or similar circumstances.		
 ```
 Class 2 Misdemeanor	
-$150	
+$325	
 8 Months
 ```
 
@@ -989,7 +1039,7 @@ $150
 Persons who willingly flees from the scene of an involved accident, crash, or property damage of another person, vehicle, object or property within their operation of a motorvehicle.		
 ```
 Class 2 Misdemeanor	
-$130	
+$410	
 6 Months
 ```
 
@@ -998,7 +1048,7 @@ $130
 Operation of a golf cart or go kart on a public roadway without expressed consent of a Law Enforcement officer or direction from the City, County or State.	
 ```	
 Infraction	
-$50	
+$180	
 No Jail
 ```
 
@@ -1007,7 +1057,7 @@ No Jail
 Occupying a Handi-Accessible parking space without proper permit or displayed permit.		
 ```
 Infraction	
-$75
+$175
 No Jail
 ```
 
@@ -1016,7 +1066,7 @@ No Jail
 Parking a motorvehicle, bicycle, within a space that is restricted for parking as indicated by signage, decal, road linage. Parking a motorvehicle on a sidewalk. Parking a motorvehicle on a street side or curb indicated with a red painted marking.		
 ```
 Infraction	
-$25	
+$95	
 No Jail
 ```
 
@@ -1025,7 +1075,7 @@ No Jail
 Parking a motorvehicle, bicycle within a lane or space indicated as a fire lane.		
 ```
 Infraction	
-$50
+$150
 No Jail
 ```
 
@@ -1034,7 +1084,7 @@ No Jail
 Failure to give way to a moving emergency vehicle, move over to the next lain, or fails to slow down to 15MPH under the posted speed limit while passing a stationary emergency vehicle.		
 ```
 Class 1 Misdemeanor	
-$290	
+$1000	
 14 Months
 ```
 
@@ -1043,7 +1093,7 @@ $290
 Failure to move to over from a stationary emergency response vehicles that are displaying flashing lights, including wreckers or tow vehicles, traveling in the same direction, to move to the farthest lane from the vehicle if safe and possible to do so, or to slow to a speed appropriate for road and weather conditions. Also included in the law are utility vehicles.		
 ```
 Class 6 Felony	
-$500
+$1000
 No Jail	
 ```																				
 
@@ -1052,7 +1102,7 @@ No Jail
 Disregards a designated traffic control device, signal, indicated as red, and has not already cleared the perpendicular sidewalk edge.	
 ```
 Infraction	
-$50
+$145
 No Jail
 ```																					
 
@@ -1061,7 +1111,7 @@ No Jail
 Disregards a designated traffic stop sign by not coming to a full and complete stop.		
 ```
 Infraction	
-$35	
+$115	
 No Jail
 ```
 
@@ -1070,7 +1120,7 @@ No Jail
 Operating a motorvehicle, driving the wrong way down a designated one-way road.		
 ```
 Infraction	
-$65	
+$190	
 No Jail
 ```
 
@@ -1079,7 +1129,7 @@ No Jail
 Failure to operate a vehicle within, and maintain, the designated lane.		
 ```
 Infraction	
-$15	
+$65	
 No Jail	
 ```																				
 
@@ -1088,7 +1138,7 @@ No Jail
 Operate a non-motorized vehicle such as, but not limited to, a bicycle on a roadway where the speed limit is greater than 45mph.		
 ```
 Infraction	
-$10	
+$55	
 No Jail
 ```																					
 
@@ -1097,7 +1147,7 @@ No Jail
 Taking an illegal u-turn where the roadway does not specifically, explicity state, a u-turn is permitted.		
 ```
 Infraction
-$30
+$45
 No Jail
 ```																				
 
@@ -1106,7 +1156,7 @@ No Jail
 Failure to come to a full and complete stop at a red indicated signal traffic light before making a right turn.
 ```
 Infraction	
-$20	
+$125	
 No Jail
 ```
 
@@ -1115,16 +1165,7 @@ No Jail
 Operator of a motorvehicle may not start a vehicle that is stopped, standing, or parked until the movement can be made with reasonable safety.		
 ```
 Infraction	
-$30	
-No Jail
-```
-
-**3-1819	Failure to Signal**
-
-Any motorvehicle operating on a roadway must signal or hand arm signal when making a turn or lane change, signal must be for 200ft. Speeds above 50mph must be 300ft.	
-```
-Infraction	
-$50	
+$145	
 No Jail
 ```
 
@@ -1133,7 +1174,7 @@ No Jail
 Speed limit exceeds 40mph within an urban or city area such as, but not limited to, city of Los Santos and Paleto Bay.		
 ```
 Infraction
-$50	
+$195	
 No Jail
 ```
 
@@ -1142,7 +1183,7 @@ No Jail
 Speed limit exceeds 80mph within a state interstate or highway.		
 ```
 Infraction	
-$75	
+$215	
 No Jail
 ```
 
@@ -1151,7 +1192,7 @@ No Jail
 Speed limit exceeds 55mph within rural areas such as, but not limited to, Grapeseed, Sandy Shores.		
 ```
 Infraction	
-$50	
+$195	
 No Jail
 ```
 
@@ -1160,7 +1201,7 @@ No Jail
 Speeds exceeding 30mph over the designated speed limits within the Urban, Interstate or Rural Speed laws.		
 ```
 Class 6 Felony	
-$450	
+$1250	
 20 Months
 ```
 
@@ -1169,7 +1210,7 @@ $450
 Motorvehicles participating in a race on a roadway where proper authorization has not been granted.		
 ```
 Class 6 Felony	
-$500	
+$1450	
 20 Months
 ```
 
@@ -1178,7 +1219,7 @@ $500
 Knowingly or intentionally owns a motorvehicle that has never been registered.		
 ```
 Infraction	
-$50
+$95
 No Jail
 ```
 
@@ -1196,7 +1237,7 @@ No Jail
 Repeatedly using a horn causing a distraction to other drivers. A driver must only use their horn in justified situations, up to the descretion of officers.		
 ```
 Infraction	
-$10	
+$45	
 No Jail
 ```
 
@@ -1205,7 +1246,7 @@ No Jail
 No person shall drive upon a highway/roadway at such a slow speed as to impede or block the mornal and reasonable movement of traffic unless the reduced speed is necessary for safe operation.		
 ```
 Infraction	
-$30	
+$125	
 No Jail
 ```
 
@@ -1218,7 +1259,7 @@ No Jail
 Vehicle that is traveling on a roadway must have two headlights on between sunset and sunrise or when visibility is less than 200ft.		
 ```
 Infraction	
-$10	
+$100	
 No Jail
 ```
 
@@ -1227,7 +1268,7 @@ No Jail
 Vehicle that is traveling on a roadway must have two taillights on between sunset and sunrise.		
 ```
 Infraction	
-$10	
+$100	
 No Jail	
 ```																				
 
@@ -1236,7 +1277,7 @@ No Jail
 Vehicle shall not produce an overwhelimg amount of fumes or smoke while operating on a roadway.		
 ```
 Infraction	
-$15
+$150
 No Jail
 ```																				
 
@@ -1245,7 +1286,7 @@ No Jail
 Failure to wear and maintain a seatbelt while operating a motorvehicle.		
 ```
 Infraction	
-$15	
+$150	
 No Jail
 ```
 
@@ -1254,7 +1295,7 @@ No Jail
 Vehicle is fitted or equipped with emergency lighting flashing red and blue.		
 ```
 Class 6 Felony	
-$430	
+$1030	
 16 Months
 ```
 
@@ -1263,7 +1304,7 @@ $430
 Operation of a motorvehicle in which the equipment of the vehicle is not in good working order, requiring body work or mechanical work, and may pose a risk or endanger the general safety of persons of the general public.		
 ```
 Infraction	
-$90	
+$185	
 No Jail
 ```
 
@@ -1272,7 +1313,7 @@ No Jail
 Vehicle that fails to dim high beams 200ft approaching a vehicle or foot traffic.
 ```
 Infraction	
-$20	
+$95	
 No Jail
 ```
 
@@ -1281,7 +1322,7 @@ No Jail
 Vehicle equipped with red or blue lights.
 ```
 Infraction	
-$80	
+$180	
 No Jail
 ```
 
@@ -1290,7 +1331,7 @@ No Jail
 Operation of hydraulics on a motorvehicle where the vehicle is moving on a roadway. Operation of hydraulics where a vehicle does not have clearance of a roadway.
 ```
 Infraction	
-$50
+$150
 No Jail
 ```															
 
@@ -1299,7 +1340,7 @@ No Jail
 Vehicle that is operated on a roadway with a licenseplate that is not clearly visible on the rear side of a vehicle.		
 ```
 Infraction	
-$95	
+$115	
 No Jail	
 ```																				
 
@@ -1308,7 +1349,7 @@ No Jail
 Vehicle may not be driven on a roadway where the verhicles contents are dripping, sifting, or leaking from the vehicle.		
 ```
 Infraction	
-$75	
+$175	
 No Jail	
 ```																			
 
@@ -1322,7 +1363,7 @@ No Jail
 Operating a Motorcycle without proper licensing issued by the DMV to operate a Motorcycle		
 ```
 Infraction	
-$75
+$245
 No Jail
 ```
 
@@ -1332,7 +1373,7 @@ Operating a Commercial Vehicle without proper licensing issued by the DMV to ope
 
 ```
 Infraction	
-$100	
+$345	
 No Jail	
 ```																				
 
@@ -1342,7 +1383,7 @@ Operating a motorvehicle on a learners permit without a licensed driver present 
 
 ```
 Infraction	
-$75	
+$300	
 No Jail
 ```																					
 
@@ -1352,7 +1393,7 @@ Operating a motorvehicle when Drivers License has been formally suspended by the
 
 ```
 Class 1 Misdemeanor	
-$260	
+$650	
 12 Months
 ```																					
 
@@ -1361,7 +1402,7 @@ $260
 Operating a motorvehicle without proper licensing issued by the DMV to operate a motorvehicle		
 ```
 Infraction	
-$75	
+$275	
 No Jail
 ```																					
 
@@ -1370,7 +1411,7 @@ No Jail
 Operating any motorvehicle without a drivers license in possession.		
 ```
 Infraction
-$50	
+$145	
 No Jail
 ```																				
 
@@ -1381,7 +1422,7 @@ Operating any boat without proper licensing issued.
 
 ```
 Infraction	
-$75	
+$265	
 No Jail
 ```																				
 
@@ -1392,7 +1433,7 @@ Operating any aircraft without proper licensing issued.
 
 ```
 Class 6 Felony	
-$500	
+$2500	
 18 Months
 ```																		
 
@@ -1408,7 +1449,7 @@ No individual may hunt without proper licensing.
 
 ```
 Class 3 Misdeameanor	
-$100	
+$250	
 5 Months
 ```																					
 
@@ -1418,7 +1459,7 @@ No individual may hunt between the sunset and sunrise.
 
 ```
 Infraction	
-$65	
+$165	
 No Jail
 ```																			
 
@@ -1428,7 +1469,7 @@ No individual may use green lights while hunting.
 
 ```
 Infraction	
-$35	
+$135	
 No Jail
 ```																				
 
@@ -1439,7 +1480,7 @@ No individual may hunt within 500 ft from a urban area (e.g. Los Santos, Sandy, 
 
 ```
 Class 3 Misdemeanor	
-$100	
+$1000	
 5 Months
 ```																					
 
@@ -1448,7 +1489,7 @@ $100
 No individual may hunt from within a motor vehicle which is being operated.		
 ```
 Class 2 Misdemeanor	
-$200	
+$850	
 8 Months
 ```
 
@@ -1458,7 +1499,7 @@ No individual may hunt with any weapon classified as a class 3 weapon.
 
 ```
 Class 6 Felony
-$650	
+$1250	
 15 Months
 ```																			
 
@@ -1469,7 +1510,7 @@ An individual shall not hunt endangered animals. An animal is to be considered e
 
 ```
 Class 1 Misdemeanor 	
-$300	
+$2000	
 12 Months
 ```																			
 
@@ -1480,7 +1521,7 @@ No individual shall leave any animal carcass in the wild, without prior authoriz
 
 ```
 Infraction	
-$95	
+$195	
 No Jail																					
 ```
 
@@ -1490,7 +1531,7 @@ Possesses or obtains, actually or constructively, illegal animal hide, pelts or 
 
 ```
 Class 6 Felony	
-$650	
+$1650	
 15 Months
 ```																					
 
@@ -1500,7 +1541,7 @@ Possesses or obtains, actually or constructively, illegal fishing baits or suppl
 
 ```
 Class 1 Misdemeanor	
-$300	
+$1300	
 12 Months	
 ```																				
 
@@ -1509,7 +1550,7 @@ $300
 Possesses or obtains, actually or constructively, illegal fished wildlife defined by the State Department of Environmental Conservation which may include wildlife such as turtles or sharks.		
 ```
 Class 6 Felony	
-$650	
+$1650	
 15 Months
 ```																					
 
@@ -1529,7 +1570,7 @@ Except when taking off or landing at a regulated and authorized airport or landi
 
 ```
 Class 6 Felony
-$850	
+$2500	
 20 Months																					
 ```																					
 
@@ -1539,7 +1580,7 @@ Landing an aircraft, fixed wing or helicopter, outside of an authorized and regu
 
 ```
 Class 6 Felony	
-$850	
+$1850	
 20 Months
 ```																				
 
@@ -1549,7 +1590,7 @@ Stunt flying or reckless flying whether inadvertent, unintentional, or intention
 
 ```
 Class 6 Felony	
-$900	
+$1850	
 20 Months
 ```																				
 
@@ -1559,7 +1600,7 @@ Dropping items, objects, or persons from an aircraft is prohibited in the State 
 
 ```
 Class 5 Felony	
-$1,500	
+$2100	
 25 Months
 ```																				
 
@@ -1569,7 +1610,7 @@ Operation of an aircraft, fixed wing or helicopter, in a no fly zone pertaining 
 
 ```
 Class 4 Felony	
-$2,750	
+$6500	
 30 Months
 ```																					
 
@@ -1577,7 +1618,7 @@ $2,750
 
 Operation of an aircraft, fixed wing or helicopter, without lights during evening, night time, and dawn hours where common visibility is impacted due to the lack of daylight.	
 ```
-Class 6 Felony	
+Class 1 Misdemeanor
 $500	
 20 Months
 ```																					
@@ -1587,7 +1628,7 @@ $500
 Operation of an aircraft, fixed wing or helicopter, without maintaining active communications with ATC on regulated communication channels (Radio 111).	
 ```
 Class 6 Felony	
-$525	
+$1450	
 20 Months
 ```																				
 
@@ -1596,9 +1637,9 @@ $525
 
 Providing means of, or performing the act of skydiving without proper permits issued by the State of San Andreas.		
 ```
-Class 6 Felony	
-$500	
-20 Months	
+Class 1 Misdemeanor	
+$650	
+4 Months	
 ```																				
 
 
