@@ -29,7 +29,7 @@ Time & Fine: Two classes lower than the original offense, unless it's a class on
 ## Homicide																												
 **3-501	First Degree Murder**
 
-Intending or knowing that the person's conduct will cause death, the person causes the death of another person, with premeditation. POG
+Intending or knowing that the person's conduct will cause death, the person causes the death of another person, with premeditation. 
 
 ```
 Class 1 Felony
@@ -554,7 +554,7 @@ $1200
 
 Brandishing a deadly weapon publicly with the intent of causing intimidation or to instill fear into another.		
 ```
-Class 5 Felony	
+Class 6 Felony	
 $945	
 15 Months
 ```																					
