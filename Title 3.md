@@ -1570,6 +1570,7 @@ Law Enforcement officers operating within a reasonable and lawful capacity of th
 
 
 **3-2202	Minimum Height Limit Violation**
+
 Except when taking off or landing at a regulated and authorized airport or landing pad, all aircraft, including fixed wing or helicopter, must operate at a height higher than 1,900ft in Los Santos, and a height higher than 1,100ft elsewhere. Must also operate at a minimum of 200ft above the ground level, any structure, building or other obstacle.		
 
 ```
